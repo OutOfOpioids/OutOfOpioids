@@ -5,10 +5,14 @@
 <div id="p-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=NotKronos&style=flat-square&color=red"/>
 </div>
+
 ---
 
 ### Hey!
-I'm 
+
+I'm 15 yo, learning C++.
+<br/>
+Want to get started with js, I spent way too much time watching anime tho.
 
 ---
 ### Stats:
