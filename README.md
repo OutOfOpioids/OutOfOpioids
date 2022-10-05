@@ -12,7 +12,7 @@
 
 I'm 15 yo, learning C++.
 <br/>
-I want to get started with js, I spent way too much time watching anime tho.
+I want to get started with js, I spend way too much time watching anime tho.
 
 ---
 ### Stats:
