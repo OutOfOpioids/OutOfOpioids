@@ -20,9 +20,8 @@
 
 ### Hey!
 
-I'm 15 yo, learning C++.
+16, currently working on the absoulutely worst 1.12.2 client in the existance
 <br/>
-I want to get started with js, I spend way too much time watching anime tho.
 
 ---
 ### Stats:
