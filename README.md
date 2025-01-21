@@ -20,7 +20,7 @@
 
 ### Hey!
 
-16, currently working on the absoulutely worst 1.12.2 client in the existance
+18, making minecraft mods from time to time
 <br/>
 
 ---
